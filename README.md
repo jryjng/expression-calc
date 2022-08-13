@@ -16,5 +16,5 @@ No libraries/external functions were used except for building the UI.
 
 The UI is built using JavaFX, FXML, and CSS.
 
-#### TODO
-Create a runtime image for easy use.
+### TODO
+Create a runtime image.

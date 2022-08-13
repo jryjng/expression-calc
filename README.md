@@ -1,6 +1,6 @@
 # expression-calc
-<img src="/assets/cdemo1.png" alt="calculator" width="400"/>
-<img src="/assets/cdemo2.png" alt="calculator" width="400"/>
+<img src="/assets/cdemo1.png" alt="calculator" width="300"/>
+<img src="/assets/cdemo2.png" alt="calculator" width="300"/>
 
 An expression graphing calculator built using JavaFX. Supports a wide variety of operations such as:
 `x=-3*5/floor(5)^-(2*3)`

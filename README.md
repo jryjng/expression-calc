@@ -1,5 +1,5 @@
 # expression-calc
-![Calculator with expressions and their results printed.](/assets/cdemo1.png)
+<img src="/assets/cdemo1.png" alt="calculator" width="200"/>
 ![Graph with equations plotted on it.](/assets/cdemo2.png)
 
 An expression graphing calculator built using JavaFX. Supports a wide variety of operations such as:

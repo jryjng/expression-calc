@@ -17,12 +17,15 @@ The list of operations include:
 * Standard arithmetic, trignometric, logarithic
 * Bitwise operations, radix
 * Math functions i.e. absolute value, floor, ceil
+* Unary negation and scientific notation
 * Variables
 
 Expression precedence is done through an implementation of the [Shunting Yard Algorithm](https://en.wikipedia.org/wiki/Shunting_yard_algorithm).
-No libraries/external functions were used except for building the UI.
+The expression parser accepts any arbitary valid infix expression and process it into RPN before evaluating the RPN.
+
 
 The UI is built using JavaFX, FXML, and CSS.
+The application only utilizes the JavaFX framework and java.lang.Math library.
 
 ### TODO
 Create a runtime image.

@@ -5,6 +5,12 @@
 An expression graphing calculator built using JavaFX. Supports a wide variety of operations such as:
 `x=-3*5/floor(5)^-(2*3e2)`
 
+`y=sin(cos(tan(floor(-2))))`
+
+`abs(x/y)^-2`
+
+`5 << 2 >> 3 & 5!`
+
 The list of operations include:
 * Standard arithmetic, trignometric, logarithic
 * Bitwise operations, radix

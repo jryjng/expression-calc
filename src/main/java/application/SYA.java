@@ -5,9 +5,6 @@ package application;
  * This file contains all the "calculation" side of the calculator app,
  * but is completely standalone.
  *
- * Problems
- * - Needs a refactor for coherence, extensibility, and performance
- * - bitwise
  * While the code is "correct", it could use major redesign for coherence,
  * extensibility and performance
  */

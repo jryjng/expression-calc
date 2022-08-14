@@ -26,14 +26,11 @@ import java.io.IOException;
  * --------------------
  * sin(cos(a))(5-2)^(-2)+9*(9/4)--((a3E3sqrt(3!)))
  * -1(2(-3(4(-5)4)-3)2)-1
- * parse complex non-delimited arithmetic expressions
  *
  * Known Issues:
  * --------------------
- * Graph mode breaks with too large values,
- * Some floating point math edge cases i.e. -Infinity, too large numbers
  * Can't differentiate between variables and functions i.e. a(5) is treated like a function
- * Issues with the scientific exponent may come up, do not use it as a variable name
+ * Variable 'e' or 'E' may be treated as a scientific exponent
  *
  */
 public class Main extends Application {
